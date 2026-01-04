@@ -6,13 +6,8 @@
 - 💞️ I am looking to collaborate on any project
 - 📫 How to contact me on discord or my email
 
-## Statistics
-
-- Development of web pages: 78%
-- Development of cross-platform desktop applications, mobile devices / others: 24%
-- Minecraft Network development: 94%
-- Moderation of community spaces (Discord, Facebook, Twitter): 20% (I have no patience for that)
-- Other projects: -Depending on whatever-%
+  Note: Borrando webadas que hice como desarrollo xd (y guardando la historias te amo zaicadia)
+  
 
 <!---
 GlobDark/GlobDark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
